@@ -1,0 +1,1 @@
+worker: signal_sniper.py
