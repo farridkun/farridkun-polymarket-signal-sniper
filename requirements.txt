@@ -1,1 +1,1 @@
-shimmer-sdk
+simmer-sdk
